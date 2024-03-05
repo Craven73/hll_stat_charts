@@ -3,7 +3,7 @@ It is gross, but the initial version was just slapted together one day never ref
 
 Also i didn't export the dependencies to a requirements.txt so you will have to sort out the installs as you try and run it
 
-
+__**Also also if you expose this api to the internet i did not implement anything to try and protect from malicious actors unloading files**__
 # Endpoints
 Currently there are four endpoints
 - /rcon-url/chart
