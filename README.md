@@ -1,6 +1,8 @@
 # Overview
 It is gross, but the initial version was just slapted together one day never refined and then some features added on. The intent of making it a rest api is to be able to call it from a discord bot so i would not be responsible for creating the graphs... never got around to adding it to the bot
 
+Also i didn't export the dependencies to a requirements.txt so you will have to sort out the installs as you try and run it
+
 
 # Endpoints
 Currently there are four endpoints
