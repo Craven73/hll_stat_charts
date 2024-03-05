@@ -39,8 +39,8 @@ Currently there are four endpoints
 The rcon ones expect a gameboard as input it will go and download the stats. The HLU expect a discord file link to the HLU log file. It will download the log and parse out all the kills. Then it tries to classify each of the kills to a side by weapon type and creates the graphs.
 
 # Outputs
-Chart
+### Chart
 ![](./api/plot.png)
 
-Table
+### Table
 ![](./api/table_image.png)
